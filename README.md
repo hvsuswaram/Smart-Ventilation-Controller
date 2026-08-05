@@ -81,6 +81,10 @@ The program includes several validation features:
 - Rejects unrealistic outdoor temperatures
 - Detects failed sensor readings
 
+## Testing
+
+See TESTING.md for testing information.
+
 # Future Improvements
 
 - Wi-Fi connectivity using an ESP32
