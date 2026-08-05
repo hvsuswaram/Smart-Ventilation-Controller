@@ -86,7 +86,7 @@ The program includes several validation features:
 - Wi-Fi connectivity using an ESP32
 - Push notifications when ventilation state changes
 - Relay-controlled fan instead of LED simulation
-- Data logging for expanded temperature analysis
+- Data logging for historical temperature analysis
 
 # Skills Demonstrated
 
