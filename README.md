@@ -1,3 +1,6 @@
+
+<img width="574" height="706" alt="Screenshot 2026-08-05 at 6 15 05 PM" src="https://github.com/user-attachments/assets/a160e00b-039d-4259-b1bd-aba777971560" />
+
 # Smart Ventilation Controller
 
 This is an Arduino-based embedded systems project that simulates a smart ventilation controller. The system compares indoor and outdoor temperatures and determines whether ventilation should be turned on. An LED simulates the ventilation on/off signal, responding to the controller's decision-making logic.
@@ -11,6 +14,8 @@ This is an Arduino-based embedded systems project that simulates a smart ventila
 - Determines whether ventilation should be enabled
 - Uses an LED to simulate the ventilation system
 - Organized into separate C++ modules for maintainability
+
+<img width="512" height="518" alt="Screenshot 2026-08-05 at 6 13 05 PM" src="https://github.com/user-attachments/assets/b6d944e6-6181-44dd-8675-ec7e0b1f20bd" />
 
 ## Hardware Components
 
@@ -52,11 +57,8 @@ Each module is responsible for a one or two tasks, making the project easier to 
 
 # Example Output
 
-Smart Ventilation Controller
 
-Outside Temperature: 18.0 C
-Inside Temperature: 24.3 C
-Ventilation: ON
+<img width="510" height="565" alt="Screenshot 2026-08-05 at 6 16 15 PM" src="https://github.com/user-attachments/assets/d3af11de-6ed9-455a-9737-6b3e5caa2f17" />
 
 # Design
 
