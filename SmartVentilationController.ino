@@ -1,4 +1,4 @@
-/* SmartVentilation.ino is the main application for the Smart Ventilation Controller
+/* SmartVentilationController.ino is the main application for the Smart Ventilation Controller
  - coordinates user input, sensor readings, control logic, and hardware output
 */
 
