@@ -85,12 +85,17 @@ The program includes several validation features:
 
 See TESTING.md for testing information.
 
-# Future Improvements
+## ESP32 / IoT Expansion
 
-- Wi-Fi connectivity using an ESP32
-- Push notifications when ventilation state changes
-- Relay-controlled fan instead of LED simulation
-- Data logging for historical temperature analysis
+The original Arduino Uno project has been successfully moved to an ESP32.
+
+Current work includes:
+- ESP32 hardware
+- Wi-Fi connectivity
+- Serial-based Wi-Fi information input
+- Web database development
+
+The IoT portion of the project is currently in progress.
 
 # Skills Demonstrated
 
