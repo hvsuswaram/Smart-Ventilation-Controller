@@ -93,7 +93,7 @@ Current work includes:
 - ESP32 hardware
 - Wi-Fi connectivity
 - Serial-based Wi-Fi information input
-- Web database development
+- Web interface development
 
 The IoT portion of the project is currently in progress.
 
